@@ -1,0 +1,23 @@
+Redux - storing all state in "Store"
+
+
+Terminology
+--------------
+Store - state management
+Action - CRUD Operation
+Reducer - What to add  - function
+Dispatch - state changes
+
+Steps
+------
+
+1. Design the store
+2. Define the Actions
+3. Create a Reducer
+4. Set up the store
+
+
+
+getState()  -return the current state
+dispatch - state has been updated 
+subscribe - reducer return the new state
